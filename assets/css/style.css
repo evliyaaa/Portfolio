@@ -86,8 +86,8 @@ h6 {
   position: absolute;
   top: 10px; /* Adjust the top position as needed */
   right: 10px; /* Adjust the right position as needed */
-  width: 100px; /* Adjust the size as needed */
-  height: 100px;
+  width: 120px; /* Adjust the size as needed */
+  height: 120px;
   border-radius: 50%;
   object-fit: cover; /* Maintain aspect ratio and cover the circle */
   border: 3px solid white; /* Add a white border around the image */
