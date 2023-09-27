@@ -139,7 +139,6 @@
       backSpeed: 50,
       backDelay: 2000
     });
-  }
 
   /**
    * Skills animation
