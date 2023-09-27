@@ -331,7 +331,7 @@ h6 {
 #hero {
   width: 100%;
   height: 75vh;
-  background: url('https://www.techspot.com/images2/news/bigimage/2023/08/2023-08-23-image-29-j_1100.webp') top center;
+  background: url('/assets/img/analysis-analytics-analyzing-annual.jpg') top center;
   background-size: cover;
   padding: 0 15px;
 }
