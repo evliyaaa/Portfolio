@@ -334,9 +334,6 @@ h6 {
   background: url('/assets/img/data_analyst_professional_facebook_wide.png') top center;
   background-size: 1280px 720px;
   padding: 0 15px;
-  display: flex;
-  flex-direction: column;
-  justify-content: center; /* Center vertically */
   align-items: flex-start; /* Align to the left */
 }
 
