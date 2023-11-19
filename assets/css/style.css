@@ -333,7 +333,7 @@ h6 {
   height: 75vh;
   background: url('/assets/img/data_analyst_professional_facebook_wide.png') top center;
   background-size: 1280px 720px;
-  text-align: left; /* Align text to the left */
+  text-align: right; /* Align text to the left */
   padding-left: 15%; 
 }
 
